@@ -50,7 +50,11 @@ p{
 a:hover{
     color:white;
 }
+.write{
+    font-family: 'Tengwar';
+        color:orangered;
 
+}
 /* MENU */
 .btn-group-vertical > .btn-group::after, .btn-group-vertical > .btn-group::before, .btn-toolbar::after, .btn-toolbar::before, .clearfix::after, .clearfix::before, .container-fluid::after, .container-fluid::before, .container::after, .container::before, .dl-horizontal dd::after, .dl-horizontal dd::before, .form-horizontal .form-group::after, .form-horizontal .form-group::before, .modal-footer::after, .modal-footer::before, .modal-header::after, .modal-header::before, .nav::after, .nav::before, .navbar-collapse::after, .navbar-collapse::before, .navbar-header::after, .navbar-header::before, .navbar::after, .navbar::before, .pager::after, .pager::before, .panel-body::after, .panel-body::before, .row::after, .row::before{
     padding-top: 2px;
@@ -153,11 +157,9 @@ a:hover{
 
 .nav-pills >li > a{
     color:grey;
-    padding-left: 40px;
+    padding-left: 35px;
 }
-.nav-tabs, .nav-pills {
 
-}
 
 .box {
     position: relative;
@@ -408,9 +410,7 @@ td{
 .join{
     margin-left: -3vw;
 }
-.table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th{
-    width: 10vw;
-}
+
 /*FORM */
 form{
     margin-top: 10px;
