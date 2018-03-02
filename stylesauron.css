@@ -16,7 +16,7 @@ src: local('Aniron'), url('font/anirm___.woff') format('woff');
 font-family: 'Tengwar';
 font-style: normal;
 font-weight: normal;
-src: local('Tengwar Annatar Bold'), url('tengwar-annatar/tnganb.woff') format('woff');
+src: local('Tengwar Annatar Bold'), url('font/tengwar-annatar/tnganb.woff') format('woff');
 }
 
 section{
