@@ -375,6 +375,10 @@ figcaption{
 }
 .panel-body{
     color: #000;
+
+}
+td{
+    width: 80%;
 }
 .namegollum{
     margin-top: 5px;
@@ -404,7 +408,9 @@ figcaption{
 .join{
     margin-left: -3vw;
 }
-
+.table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th{
+    width: 10vw;
+}
 /*FORM */
 form{
     margin-top: 10px;
@@ -420,7 +426,6 @@ footer{
     background-color: orangered;
     padding: 20px;
     margin-top: -50px;
-    list-style-type: none;
 
 }
 footer, li, a{
@@ -429,6 +434,11 @@ footer, li, a{
 }
 footer, li, a:hover{
         color:white;
+
+}
+ul{
+   list-style-type: none;
+
 
 }
 .table > thead > tr > th{
