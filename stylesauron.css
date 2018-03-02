@@ -1,6 +1,6 @@
 
 body{
-    background-image: url('image/_bg_light.png');
+    background-image: url('image/bg_light.png');
     overflow-x: hidden;
 }
 
@@ -56,7 +56,7 @@ a:hover{
     padding-top: 2px;
 }
 .container-fluid{
-    background-image: url(image/_bg_dark.png);
+    background-image: url(image/bg_dark.png);
     margin-left: 10vw;
 
 }
@@ -310,7 +310,7 @@ figcaption{
 
 
 .capture{
-    background-image: url(image/_bg_dark.png);
+    background-image: url(image/bg_dark.png);
     margin-left: -30px;
     margin-top: 30px;
         font-family: 'Aniron';
